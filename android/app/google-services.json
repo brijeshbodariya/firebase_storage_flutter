@@ -1,0 +1,142 @@
+{
+  "project_info": {
+    "project_number": "852527910746",
+    "project_id": "shopping-portal-77eaf",
+    "storage_bucket": "shopping-portal-77eaf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852527910746:android:2e7341937a55af6dd32d63",
+        "android_client_info": {
+          "package_name": "com.bb.twitter_auth_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852527910746-6ss5i8pufsi7dljist7qgglgk0tpvmus.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bb.twitter_auth_demo",
+            "certificate_hash": "2358f1ee2011999323de5b3394b6af611f25ec76"
+          }
+        },
+        {
+          "client_id": "852527910746-b1ooas8i9lkcf84hs237tu4edm0toitl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD43OmnpttqtbhaYVKfYYCwW1MuJEmjjyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852527910746-b1ooas8i9lkcf84hs237tu4edm0toitl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "852527910746-kk8cahq1p9spl46ua1c4ulad2crvd0ki.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ss.shoppingPortalDemo"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852527910746:android:e6abce65b176139bd32d63",
+        "android_client_info": {
+          "package_name": "com.example.firebase_storage_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852527910746-t51hdt36aa28vcrihtautm0e3388nj39.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase_storage_flutter",
+            "certificate_hash": "2358f1ee2011999323de5b3394b6af611f25ec76"
+          }
+        },
+        {
+          "client_id": "852527910746-b1ooas8i9lkcf84hs237tu4edm0toitl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD43OmnpttqtbhaYVKfYYCwW1MuJEmjjyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852527910746-b1ooas8i9lkcf84hs237tu4edm0toitl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "852527910746-kk8cahq1p9spl46ua1c4ulad2crvd0ki.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ss.shoppingPortalDemo"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852527910746:android:08421b43e02318a2d32d63",
+        "android_client_info": {
+          "package_name": "com.ss.shopping_portal_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852527910746-ml8cq3f6akeb2mcpoke4uoitt87lapqv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ss.shopping_portal_demo",
+            "certificate_hash": "2358f1ee2011999323de5b3394b6af611f25ec76"
+          }
+        },
+        {
+          "client_id": "852527910746-b1ooas8i9lkcf84hs237tu4edm0toitl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD43OmnpttqtbhaYVKfYYCwW1MuJEmjjyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852527910746-b1ooas8i9lkcf84hs237tu4edm0toitl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "852527910746-kk8cahq1p9spl46ua1c4ulad2crvd0ki.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ss.shoppingPortalDemo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
